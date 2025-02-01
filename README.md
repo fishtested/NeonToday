@@ -4,6 +4,6 @@
 
 ## How it works
 1. First, it displays the time and date (currently in UTC, but I may change to my local time zone)
-2. 15 seconds later, it displays the weather (I will change this to my coordinates)
+2. 15 seconds later, it displays the weather from [Open-Meteo](https://open-meteo.com/) (I will change this to my coordinates)
 3. 15 seconds later, it displays the time and date again
 4. Repeats
